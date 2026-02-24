@@ -1,69 +1,61 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie EN TV 1
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5023
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie Canal TV 2
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5024
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algeria A3 4K
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5025
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie Tamazight TV 4
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5026
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie TV 6 4K
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5028
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie Elmaarifa TV7
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5029
-#EXTINF:-1 group-title="DZ - Official / National",DZ: Algerie Edhakira TV8
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5030
-#EXTINF:-1 group-title="DZ - Official / National",DZ: EL Watania TV Algeria
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5031
-
-#EXTINF:-1 group-title="DZ - News",DZ: Echourouk News
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5034
-#EXTINF:-1 group-title="DZ - News",DZ: Echourouk TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5035
-#EXTINF:-1 group-title="DZ - News",DZ: Ennahar TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5036
-#EXTINF:-1 group-title="DZ - News",DZ: AL24news
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5048
-#EXTINF:-1 group-title="DZ - News",DZ: AL MAGHARIBIA
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5022
-
-#EXTINF:-1 group-title="DZ - Religious",DZ: Algeria TV5 Coran
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5033
-#EXTINF:-1 group-title="DZ - Religious",DZ: Al Anis TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5032
-#EXTINF:-1 group-title="DZ - Religious",DZ: Dzair Jannah
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5038
-#EXTINF:-1 group-title="DZ - Religious",DZ: El Fadjr TV DZ
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5041
-
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: Amou Yazid Tofola TV
+#EXTINF:-1 group-title="DZ",DZ: Amou Yazid Tofola TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5021
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: El Djazairia1
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5039
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: El Djazair N1
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5040
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: Bahia TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5042
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: El Bilad
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5044
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: El Hayat Algeria
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5045
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: Algeri Salam TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5046
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: Zahra TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5047
-#EXTINF:-1 group-title="DZ - Entertainment / General",DZ: AR: EL FADJER DRAMA
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5020
-
-#EXTINF:-1 group-title="DZ - Cooking",DZ: Samira TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5037
-
-#EXTINF:-1 group-title="DZ - Amazigh / Berbere",DZ: Berbere TV
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5043
-
-#EXTINF:-1 group-title="DZ - Sports",DZ: El Heddaf
-http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5049
-
-#EXTINF:-1 group-title="DZ - International",DZ: Tv5 Monde Style 4K
+#EXTINF:-1 group-title="DZ",DZ: AL MAGHARIBIA
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5022
+#EXTINF:-1 group-title="DZ",DZ: Algerie EN TV 1
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5023
+#EXTINF:-1 group-title="DZ",DZ: Algerie Canal TV 2
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5024
+#EXTINF:-1 group-title="DZ",DZ: Algeria A3 4K
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5025
+#EXTINF:-1 group-title="DZ",DZ: Algerie Tamazight TV 4
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5026
+#EXTINF:-1 group-title="DZ",DZ: Tv5 Monde Style 4K
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5027
+#EXTINF:-1 group-title="DZ",DZ: Algerie TV 6 4K
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5028
+#EXTINF:-1 group-title="DZ",DZ: Algerie Elmaarifa TV7
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5029
+#EXTINF:-1 group-title="DZ",DZ: Algerie Edhakira TV8
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5030
+#EXTINF:-1 group-title="DZ",DZ: EL Watania TV Algeria
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5031
+#EXTINF:-1 group-title="DZ",DZ: Al Anis TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5032
+#EXTINF:-1 group-title="DZ",DZ: Algeria TV5 Coran
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5033
+#EXTINF:-1 group-title="DZ",DZ: Echourouk News
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5034
+#EXTINF:-1 group-title="DZ",DZ: Echourouk TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5035
+#EXTINF:-1 group-title="DZ",DZ: Ennahar TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5036
+#EXTINF:-1 group-title="DZ",DZ: Samira TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5037
+#EXTINF:-1 group-title="DZ",DZ: Dzair Jannah
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5038
+#EXTINF:-1 group-title="DZ",DZ: El Djazairia1
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5039
+#EXTINF:-1 group-title="DZ",DZ: El Djazair N1
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5040
+#EXTINF:-1 group-title="DZ",DZ: El Fadjr TV DZ
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5041
+#EXTINF:-1 group-title="DZ",DZ: Bahia TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5042
+#EXTINF:-1 group-title="DZ",DZ: Berbere TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5043
+#EXTINF:-1 group-title="DZ",DZ: El Bilad
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5044
+#EXTINF:-1 group-title="DZ",DZ: El Hayat Algeria
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5045
+#EXTINF:-1 group-title="DZ",DZ: Algeri Salam TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5046
+#EXTINF:-1 group-title="DZ",DZ: Zahra TV
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5047
+#EXTINF:-1 group-title="DZ",DZ: AL24news
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5048
+#EXTINF:-1 group-title="DZ",DZ: El Heddaf
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5049
+#EXTINF:-1 group-title="DZ",DZ: AR: EL FADJER DRAMA
+http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5020
