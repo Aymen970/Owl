@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="DZ",DZ: Amou Yazid Tofola TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/amou-yazid-dz.png" group-title="Algerie",Amou Yazid Tofola TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5021
-#EXTINF:-1 group-title="DZ",DZ: AL MAGHARIBIA
+#EXTINF:-1 tvg-logo="" group-title="Algerie",AL MAGHARIBIA
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5022
-#EXTINF:-1 group-title="DZ",DZ: Algerie EN TV 1
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/entv_dz.png" group-title="Algerie",Algerie EN TV 1
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5023
-#EXTINF:-1 group-title="DZ",DZ: Algerie Canal TV 2
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/entv_1_canal_algerie.png" group-title="Algerie",Algerie Canal TV 2
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5024
-#EXTINF:-1 group-title="DZ",DZ: Algeria A3 4K
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/entv_3_al_thalitha.png" group-title="Algerie",Algeria A3 4K
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5025
-#EXTINF:-1 group-title="DZ",DZ: Algerie Tamazight TV 4
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/entv_4_tv_tamazight.png" group-title="Algerie",Algerie Tamazight TV 4
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5026
-#EXTINF:-1 group-title="DZ",DZ: Tv5 Monde Style 4K
+#EXTINF:-1 tvg-logo="" group-title="Algerie",Tv5 Monde Style 4K
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5027
-#EXTINF:-1 group-title="DZ",DZ: Algerie TV 6 4K
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/tv-6-dz.png" group-title="Algerie",Algerie TV 6 4K
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5028
-#EXTINF:-1 group-title="DZ",DZ: Algerie Elmaarifa TV7
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/dz/tv7ElMaarifa-95x81.gif" group-title="Algerie",Algerie Elmaarifa TV7
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5029
-#EXTINF:-1 group-title="DZ",DZ: Algerie Edhakira TV8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/dz/tv8-95x122.gif" group-title="Algerie",Algerie Edhakira TV8
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5030
-#EXTINF:-1 group-title="DZ",DZ: EL Watania TV Algeria
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/elwatania-tv-dz.png" group-title="Algerie",EL Watania TV Algeria
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5031
-#EXTINF:-1 group-title="DZ",DZ: Al Anis TV
+#EXTINF:-1 tvg-logo="" group-title="Algerie",Al Anis TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5032
-#EXTINF:-1 group-title="DZ",DZ: Algeria TV5 Coran
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/entv_5_tv_coran.png" group-title="Algerie",Algeria TV5 Coran
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5033
-#EXTINF:-1 group-title="DZ",DZ: Echourouk News
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/echorouk_tv_news_dz.png" group-title="Algerie",Echourouk News
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5034
-#EXTINF:-1 group-title="DZ",DZ: Echourouk TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/echorouk_tv.png" group-title="Algerie",Echourouk TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5035
-#EXTINF:-1 group-title="DZ",DZ: Ennahar TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/ennahar_dz_tv.png" group-title="Algerie",Ennahar TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5036
-#EXTINF:-1 group-title="DZ",DZ: Samira TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/samira_tv_dz.png" group-title="Algerie",Samira TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5037
-#EXTINF:-1 group-title="DZ",DZ: Dzair Jannah
+#EXTINF:-1 tvg-logo="" group-title="Algerie",Dzair Jannah
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5038
-#EXTINF:-1 group-title="DZ",DZ: El Djazairia1
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/dzair_tv_dz.png" group-title="Algerie",El Djazairia1
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5039
-#EXTINF:-1 group-title="DZ",DZ: El Djazair N1
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/dzair_tv_dz.png" group-title="Algerie",El Djazair N1
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5040
-#EXTINF:-1 group-title="DZ",DZ: El Fadjr TV DZ
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-REypugcLGAQ/WNlnnNWF8HI/AAAAAAAAU0s/K5a9-LLR3rIDLJLWxJC3yuk64AQSXdWfgCLcB/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25AC%25D8%25B1%2Btv%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B2%25D8%25A7%25D8%25A6%25D8%25B1%25D9%258A%25D8%25A9.png" group-title="Algerie",El Fadjr TV DZ
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5041
-#EXTINF:-1 group-title="DZ",DZ: Bahia TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/bahia_tv_dz.png" group-title="Algerie",Bahia TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5042
-#EXTINF:-1 group-title="DZ",DZ: Berbere TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/Berb%C3%A8re_T%C3%A9l%C3%A9vision_%282008%2C_V1%29.jpg" group-title="Algerie",Berbere TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5043
-#EXTINF:-1 group-title="DZ",DZ: El Bilad
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/el_bilad_news_dz.png" group-title="Algerie",El Bilad
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5044
-#EXTINF:-1 group-title="DZ",DZ: El Hayat Algeria
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/el-hayat-tv-dz.png" group-title="Algerie",El Hayat Algeria
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5045
-#EXTINF:-1 group-title="DZ",DZ: Algeri Salam TV
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/awras.png" group-title="Algerie",Algeri Salam TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5046
-#EXTINF:-1 group-title="DZ",DZ: Zahra TV
+#EXTINF:-1 tvg-logo="https://www.zahratv.net/cdn/about/Logo11.png" group-title="Algerie",Zahra TV
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5047
-#EXTINF:-1 group-title="DZ",DZ: AL24news
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-24-news-dz.png" group-title="Algerie",AL24news
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5048
-#EXTINF:-1 group-title="DZ",DZ: El Heddaf
+#EXTINF:-1 tvg-logo="http://logo.lynxcontents.click/Logo/algeria/el_heddaf_tv_dz.png" group-title="Algerie",El Heddaf
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5049
-#EXTINF:-1 group-title="DZ",DZ: AR: EL FADJER DRAMA
+#EXTINF:-1 tvg-logo="" group-title="Algerie",AR: EL FADJER DRAMA
 http://mitv.netinc.org:8691/demopad1/7awYvMAJDMzJ/5020
